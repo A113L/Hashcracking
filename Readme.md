@@ -1,1 +1,1 @@
-This repository contains wordlists and rules files for password hashes recovering.
+This repository contains wordlists and rules files for password hashes recovery.

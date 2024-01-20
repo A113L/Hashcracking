@@ -1,0 +1,27 @@
+# Debugged from various rules files and wordlists on hash files from this thread: 
+# https://forum.hashkiller.io/index.php?threads/test-your-wordlists.26732/. 
+# Sorted depending on the number of hits by the rule. Generated with hashcat, pipal, sort and grep:
+
+# Command used:
+# cut -d: -f2 hashcat/debug*.txt > debug-file.txt && pipal/./pipal.rb -t 20 -o debug-file.out debug-file.txt && cut -d= -f1 debug-file.out | grep -A20 "Top 100 passwords"| tail -n20 > rules/7_quick_20_by_A1131.rule
+
+l ] 
+[ [ 
+*09 
+] ] ] 
+] ] 
+[ ] 
+T0 
+] 
+l D4 
+[ 
+*08 
+[ [ [ [ 
+l 
+D4 D4 
+{ { { { 
+[ +0 
+[ [ [ 
++0 
+[ -0 
+u 

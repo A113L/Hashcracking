@@ -1,0 +1,109 @@
+# Debugged from various rules files and wordlists on hash files from this thread: 
+# https://forum.hashkiller.io/index.php?threads/test-your-wordlists.26732/. 
+# Sorted depending on the number of hits by the rule. Generated with hashcat, pipal, sort and grep:
+
+# Command used:
+# cut -d: -f2 hashcat/debug*.txt > debug-file.txt && pipal/./pipal.rb -t 100 -o debug-file.out debug-file.txt && cut -d= -f1 debug-file.out | grep -A100 "Top 100 passwords"| tail -n100 > rules/8_best_100_by_A1131.rule
+
+:
+*09 
+l 
+l ] 
+T0 
+[ [ 
+c 
+] ] ] 
+] ] 
+[ ] 
+@0 
+*08 
+T1 
+] 
+l D4 
+[ 
+T3 
+u 
+T4 
+$! $1 'A 
+[ [ [ [ 
+o1a 
+T2 
+o0d 
+o0a 
+o0b 
+o0k 
+o0s 
+o0c 
+o0f 
+[ [ [ 
+{ { { { 
+o0p 
+D4 D4 
+o0m 
+o0j 
+[ +0 
+o0l 
+[ [ [ [ [ 
++0 
+o0g 
+o0t 
+o71 
+o0r 
+o0v 
+l $1 
+o0n 
+[ -0 
++0 +0 
+] ] ] ] 
+o81 
+D3 D3 
+l $2 
+[ [ $1 
+D3 ] 
+*02 
+l $4 
+l $7 
+{ { 
+l $5 
+[ $1 
+{ { { 
+[ $2 
+[ [ c 
+l $8 
+[ $7 
+$! D8 
+.0 
+c O08 
+[ { 
+l $2 $3 
+o0h 
+l O06 
+o2a 
+o0k D5 
+D6 
+[ .0 
+[ [ [ [ $1 
+o61 o72 
+) 
+$3 O02 
+suo $1 
+$7 i2\ O03 
+] ] ] ] ] 
+{ 
+o61 
+[ .1 
+D1 D3 
+[ $2 $3 
+[ [ [ $1 
+D5 
+[ $0 
+$4 O02 
+[ $1 $2 $3 
+E ] ] 
+$2 $0 $1 $0 
+u sO0 
+$! $? x26 
+[ $1 $2 
++0 ] 
+D1 
+

@@ -1,0 +1,61 @@
+                       _ 
+     StatsGen 0.0.3   | |
+      _ __   __ _  ___| | _
+     | '_ \ / _` |/ __| |/ /
+     | |_) | (_| | (__|   < 
+     | .__/ \__,_|\___|_|\_\
+     | |                    
+     |_| iphelix@thesprawl.org
+
+
+[*] Analyzing passwords in [wordlist_by_A1131.txt]
+[+] Analyzing 100% (1510735945/1510735945) of passwords
+    NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
+
+[*] Length:
+[+]                        10: 22% (345667275)
+[+]                         9: 16% (251082920)
+[+]                         8: 15% (237905218)
+[+]                        11: 15% (235802892)
+[+]                        12: 12% (186828593)
+[+]                        13: 07% (120291379)
+[+]                        14: 04% (74004273)
+[+]                        15: 02% (37267569)
+[+]                        16: 01% (21885826)
+
+[*] Character-set:
+[+]             mixedalphanum: 99% (1510712648)
+[+]                       all: 00% (23297)
+
+[*] Password complexity:
+[+]                     digit: min(1) max(14)
+[+]                     lower: min(1) max(14)
+[+]                     upper: min(1) max(14)
+[+]                   special: min(0) max(12)
+
+[*] Simple Masks:
+[+]               stringdigit: 82% (1241362372)
+[+]                 othermask: 06% (98641752)
+[+]         stringdigitstring: 05% (84250329)
+[+]               digitstring: 04% (71685069)
+[+]          digitstringdigit: 00% (14792942)
+[+]        stringspecialdigit: 00% (1826)
+[+]        stringdigitspecial: 00% (887)
+[+]        digitstringspecial: 00% (267)
+[+]        specialstringdigit: 00% (236)
+[+]        specialdigitstring: 00% (148)
+[+]        digitspecialstring: 00% (117)
+
+[*] Advanced Masks:
+[+]      ?u?l?l?l?l?l?d?d?d?d: 06% (96789794)
+[+]    ?u?l?l?l?l?l?l?d?d?d?d: 06% (90836005)
+[+]  ?u?l?l?l?l?l?l?l?d?d?d?d: 04% (75083838)
+[+]        ?u?l?l?l?l?d?d?d?d: 04% (71350810)
+[+] ?u?l?l?l?l?l?l?l?l?d?d?d?d: 03% (51685484)
+[+]          ?u?l?l?l?d?d?d?d: 02% (40631725)
+[+] ?u?l?l?l?l?l?l?l?l?l?d?d?d?d: 02% (35234291)
+[+]        ?u?l?l?l?l?l?l?l?d: 01% (24804989)
+[+]          ?u?l?d?d?d?d?d?d: 01% (18404526)
+[+]      ?u?l?d?d?d?d?d?d?d?d: 01% (18051907)
+[+] ?u?l?l?l?l?l?l?l?l?l?l?d?d?d?d: 01% (17062356)
+[+]          ?u?l?l?l?l?l?l?d: 01% (16816116)

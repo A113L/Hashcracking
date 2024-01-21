@@ -10,3 +10,4 @@ a2966effb5507e77fd9043065583ed4f3750b7cc2810e3f0864af29d319beea9  hcxtools_6.0.2
 79f7e7e5e97e314595f725f64405e055e89ab9bb12df403024413d6bfe767374  App.Merge.exe                 - Powerfull wordlists manipulation tool
 c48021e405affa5053fa89d43fadee2d62720772572ce3255aa331b47503dbd5  princeprocessor.zip           - Prince processor for Hashcat
 0d5b864a450875b1ba34f95fac620cbb34cd0fd7ccf3f781be675cbe431016f4  pipal-3.4.0.zip               - Passwords analysis tool
+673ba75c3487f1b5261d0140882dc87489744341bb172d2b4a547c05f6071989  dikiy-crypto-d3215e23fbb3.zip - Wordlists utils

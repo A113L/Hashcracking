@@ -8,7 +8,7 @@
      |_| iphelix@thesprawl.org
 
 
-[*] Analyzing passwords in [/media/user/HDD_3TB/WORDLISTS/bigDB_wordlist_cleaned.txt]
+[*] Analyzing passwords in [bigDB_wordlist_cleaned.txt]
 [+] Analyzing 100% (617563228/617563228) of passwords
     NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
 

@@ -1,0 +1,111 @@
+                       _ 
+     StatsGen 0.0.3   | |
+      _ __   __ _  ___| | _
+     | '_ \ / _` |/ __| |/ /
+     | |_) | (_| | (__|   < 
+     | .__/ \__,_|\___|_|\_\
+     | |                    
+     |_| iphelix@thesprawl.org
+
+
+[*] Analyzing passwords in [/media/user/HDD_3TB/WORDLISTS/bigDB_wordlist_cleaned.txt]
+[+] Analyzing 100% (617563228/617563228) of passwords
+    NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
+
+[*] Length:
+[+]                         8: 30% (185994508)
+[+]                        10: 14% (89913273)
+[+]                         9: 13% (83929359)
+[+]                         7: 09% (58375263)
+[+]                        11: 07% (46008638)
+[+]                         6: 06% (38746715)
+[+]                        12: 05% (31302796)
+[+]                        13: 03% (20191654)
+[+]                        15: 02% (15157822)
+[+]                        14: 02% (14463859)
+[+]                        16: 01% (10020753)
+[+]                         5: 01% (7413408)
+[+]                        17: 00% (3239926)
+[+]                        18: 00% (3023967)
+[+]                        20: 00% (2186759)
+[+]                        19: 00% (1751339)
+[+]                         4: 00% (1077503)
+[+]                        21: 00% (915176)
+[+]                        22: 00% (905382)
+[+]                        24: 00% (596905)
+[+]                        23: 00% (527560)
+[+]                        25: 00% (451020)
+[+]                        26: 00% (284620)
+[+]                        30: 00% (261223)
+[+]                        28: 00% (220488)
+[+]                         3: 00% (210328)
+[+]                        27: 00% (167887)
+[+]                        29: 00% (141822)
+[+]                        31: 00% (72896)
+[+]                         2: 00% (9322)
+[+]                         1: 00% (1057)
+
+[*] Character-set:
+[+]             loweralphanum: 46% (288299249)
+[+]                loweralpha: 21% (134904159)
+[+]             mixedalphanum: 09% (58703145)
+[+]                   numeric: 08% (53430871)
+[+]      loweralphaspecialnum: 02% (17424412)
+[+]                mixedalpha: 02% (15673673)
+[+]             upperalphanum: 02% (15367476)
+[+]         loweralphaspecial: 02% (13806384)
+[+]                specialnum: 00% (6020797)
+[+]                       all: 00% (4761330)
+[+]                upperalpha: 00% (3727687)
+[+]         mixedalphaspecial: 00% (2940253)
+[+]      upperalphaspecialnum: 00% (1213143)
+[+]                   special: 00% (874407)
+[+]         upperalphaspecial: 00% (416242)
+
+[*] Password complexity:
+[+]                     digit: min(0) max(31)
+[+]                     lower: min(0) max(31)
+[+]                     upper: min(0) max(31)
+[+]                   special: min(0) max(31)
+
+[*] Simple Masks:
+[+]               stringdigit: 33% (207388594)
+[+]                    string: 24% (154305519)
+[+]                 othermask: 11% (70749329)
+[+]                     digit: 08% (53430871)
+[+]               digitstring: 07% (44488150)
+[+]         stringdigitstring: 06% (41104858)
+[+]          digitstringdigit: 02% (13349243)
+[+]       stringspecialstring: 01% (11113559)
+[+]        stringspecialdigit: 00% (5945744)
+[+]        stringdigitspecial: 00% (3752350)
+[+]             stringspecial: 00% (3510287)
+[+]              digitspecial: 00% (2194340)
+[+]              specialdigit: 00% (1654917)
+[+]                   special: 00% (874407)
+[+]         digitspecialdigit: 00% (837458)
+[+]        digitspecialstring: 00% (681317)
+[+]        digitstringspecial: 00% (535593)
+[+]             specialstring: 00% (489698)
+[+]        specialstringdigit: 00% (359503)
+[+]      specialstringspecial: 00% (343556)
+[+]       specialdigitspecial: 00% (284191)
+[+]        specialdigitstring: 00% (169744)
+
+[*] Advanced Masks:
+[+]          ?l?l?l?l?l?l?l?l: 12% (78047839)
+[+]          ?d?d?d?d?d?d?d?d: 02% (12760220)
+[+]      ?l?l?l?l?l?l?l?l?l?l: 01% (10782707)
+[+]          ?l?l?l?l?l?l?d?d: 01% (10533784)
+[+]      ?d?d?d?d?d?d?d?d?d?d: 01% (10100511)
+[+]        ?l?l?l?l?l?l?l?l?l: 01% (9641024)
+[+]            ?l?l?l?l?l?l?l: 01% (8606177)
+[+]        ?d?d?d?d?d?d?d?d?d: 01% (8424624)
+[+]      ?l?l?l?l?l?l?l?l?d?d: 01% (8101288)
+[+]        ?l?l?l?l?l?l?l?d?d: 01% (7931055)
+[+]          ?l?l?l?l?d?d?d?d: 01% (7711950)
+[+]      ?l?l?l?l?l?l?d?d?d?d: 01% (7519324)
+[+]            ?d?d?d?d?d?d?d: 01% (7327606)
+[+]    ?d?d?d?d?d?d?d?d?d?d?d: 01% (7164349)
+[+]              ?l?l?l?l?l?l: 01% (6852365)
+[+]        ?l?l?l?l?l?d?d?d?d: 01% (6693280)

@@ -1,4 +1,4 @@
-Hashcat rules filtered with IsRules.exe tool that reject rules not applicable in Hash Manager.
+Hashcat rules filtered with HM IsRules.exe tool that reject rules not applicable in Hash Manager.
 
 
 Korelogic.Rules: Lines saved: 2525148, rejected: 1308537 

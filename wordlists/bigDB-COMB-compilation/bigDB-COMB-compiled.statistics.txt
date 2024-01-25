@@ -8,7 +8,7 @@
      |_| iphelix@thesprawl.org
 
 
-[*] Analyzing passwords in [/media/user/HDD_3TB/WORDLISTS/[bigDB-COMB]_compiled.txt]
+[*] Analyzing passwords in [bigDB-COMB-compiled.txt]
 [+] Analyzing 100% (933488540/933488540) of passwords
     NOTE: Statistics below is relative to the number of analyzed passwords, not total number of passwords
 

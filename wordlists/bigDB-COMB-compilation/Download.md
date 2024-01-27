@@ -1,4 +1,5 @@
-Compressed wordlist file is available for download from the i2p network via magnet link or bigDB-COMB-compiled.torrent.
+Compressed wordlist file is available for download via i2p network or clarnet.
 
-+ magnet:?xt=urn:btih:60f10a4ff36aaaf8ba5c59d61f7d6c5845882878
-+ [torrent file](https://github.com/A113L/Hashcracking/raw/main/wordlists/bigDB-COMB-compilation/bigDB-COMB-compiled.torrent.zst)
++ i2p: magnet:?xt=urn:btih:60f10a4ff36aaaf8ba5c59d61f7d6c5845882878&dn=bigDB-COMB-compiled+wordlist&tr=http://tracker2.postman.i2p/announce.php
++ [i2p torrent file](https://github.com/A113L/Hashcracking/raw/main/wordlists/bigDB-COMB-compilation/bigDB-COMB-compiled.torrent.zst)
++ [clarnet torrent file](https://github.com/A113L/Hashcracking/raw/main/wordlists/bigDB-COMB-compilation/bigDB-COMB-compiled.torrent.zip)

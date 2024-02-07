@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Slowly starting cleaning hashlist...working on splited wordlist, be patient."
+echo "Slowly starting cleaning hashlist...working on splited wordlist."
 sleep 2s
 echo "Rules extracted from founds via ULM, sorted and spliten into smaller files then compile to ranges of rules"
 sleep 2s

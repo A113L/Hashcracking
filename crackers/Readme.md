@@ -1,4 +1,4 @@
-This folder contain applications to crack password hashes.
+This folder contain applications to crack passwords hashes.
 
 sha256sums:
 

@@ -1,4 +1,4 @@
-Helpful tools to assist in password hash recovery.
+Helpful tools to assist in passwords hashes recovery.
 
 sha256sums:
 

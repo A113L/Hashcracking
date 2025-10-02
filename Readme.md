@@ -152,6 +152,12 @@ rules
 │   ├── Fordyv3-500k.rule
 │   ├── Fordyv4a.rule
 │   └── Fordyv4b.rule
+├── hashpwn
+│   ├── hashpwn_1500.rule
+│   ├── hashpwn_250.rule
+│   ├── hashpwn_3000.rule
+│   ├── hashpwn_5000.rule
+│   └── hashpwn_500.rule
 ├── hob0rules
 │   ├── d3adhob0.rule
 │   ├── hob064.rule
@@ -489,5 +495,6 @@ rules
     ├── UnicornLorge.rule
     └── UnicornSmol.rule
 
-33 directories, 454 files
+33 directories, 459 files
+
 ```

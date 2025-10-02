@@ -1,4 +1,4 @@
-Repository contains rules files for passwords recovery.
+[Repository](https://github.com/A113L/rules) contains rules files for passwords recovery.
 
 ```
 rules

@@ -1,4 +1,4 @@
-[Repository](https://github.com/A113L/rules) contains rules files for passwords recovery. [Benchmarks](https://docs.google.com/spreadsheets/d/1ctT9o-hdMaJMe9ZM7e6t9x0uDmGphvOixe0FHnHGCEI/edit?gid=1513384572#gid=1513384572) made on [hashlist](https://mega.nz/file/aA9w2RAZ#Tj7JWaM4r0EhEeujyHqPmPxoYRQqTddXQPOcm77B2N0).
+[Repository](https://github.com/A113L/rules) contains rules files for passwords recovery. [Benchmarks](https://docs.google.com/spreadsheets/d/1ctT9o-hdMaJMe9ZM7e6t9x0uDmGphvOixe0FHnHGCEI/edit?gid=1513384572#gid=1513384572) made on custom [hashlist](https://mega.nz/file/aA9w2RAZ#Tj7JWaM4r0EhEeujyHqPmPxoYRQqTddXQPOcm77B2N0).
 
 ```
 rules

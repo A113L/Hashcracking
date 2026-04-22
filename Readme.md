@@ -12,16 +12,32 @@ rules
 │   ├── append.rule
 │   ├── blazing.rule
 │   ├── concentrator_MT
+│   ├── concentrator_MT_100000.rule
+│   ├── concentrator_MT_250000.rule
+│   ├── concentrator_MT_25000.rule
+│   ├── concentrator_MT_250.rule
+│   ├── concentrator_MT_50000.rule
 │   ├── concentrator_MT_5000.rule
+│   ├── concentrator_MT_500.rule
 │   ├── concentrator_MT_64.rule
 │   ├── DietCrackers.rule
+│   ├── email_rules.rule
 │   ├── Emojis.rule
+│   ├── extr.rule
+│   ├── found_chains.txt
+│   ├── generated_combos_1-3.rule
+│   ├── generated_combos_1-4.rule
 │   ├── insane-fast.rule
 │   ├── insane-medium.rule
 │   ├── insane-slow.rule
 │   ├── _long.rule
 │   ├── misty50k.rule
 │   ├── misty.rule
+│   ├── MT_opt.rule
+│   ├── purge.rule
+│   ├── sapphire_v1.rule
+│   ├── sapphire_v3.rule
+│   ├── sapphire_v4.rule
 │   ├── _short.rule
 │   ├── tmesis-specials-num.rule
 │   ├── top1k.rule
@@ -121,10 +137,13 @@ rules
 │   └── README.md
 ├── collection
 │   ├── collection100k.rule
+│   ├── collection10k.rule
 │   ├── collection1k.rule
 │   ├── collection500k.rule
+│   ├── collection500.rule
 │   ├── collection50k.rule
 │   ├── collection5k.rule
+│   ├── collection64.rule
 │   └── README.md
 ├── dipepe
 │   ├── Dipepe_emails_top1k_v4.0.rule
@@ -141,7 +160,6 @@ rules
 │   ├── fordy10k.rule
 │   ├── fordy50k.rule
 │   ├── FordyBigBoy.rule
-│   ├── FordyCombined.rule
 │   ├── fordyv1.rule
 │   ├── fordyv2a.rule
 │   ├── fordyv2b.rule
@@ -152,12 +170,45 @@ rules
 │   ├── Fordyv3-500k.rule
 │   ├── Fordyv4a.rule
 │   └── Fordyv4b.rule
+├── hashcracky
+│   ├── hashcracky_100.rule
+│   ├── hashcracky_10k.rule
+│   ├── hashcracky_300k.rule
+│   ├── hashcracky_500.rule
+│   ├── hashcracky_50k.rule
+│   ├── hashcracky_50.rule
+│   ├── hashcracky_5k.rule
+│   ├── hashcracky_append_30k.rule
+│   ├── hashcracky_phrase_30k.rule
+│   ├── hashcracky_poggle_30k.rule
+│   ├── hashcracky_post_process.rule
+│   ├── hashcracky_prepend_30k.rule
+│   ├── hashcracky_short_15.rule
+│   └── hashcracky_taggle_30k.rule
+├── hashmob
+│   ├── hashmob100k.rule
+│   ├── hashmob100.rule
+│   ├── hashmob10k.rule
+│   ├── hashmob1500.old.rule
+│   ├── hashmob150k.rule
+│   ├── hashmob1k.rule
+│   ├── hashmob20k.rule
+│   ├── hashmob250.old.rule
+│   ├── hashmob5000.old.rule
+│   ├── hashmob500.old.rule
+│   ├── hashmob50k.rule
+│   ├── hashmob5k.rule
+│   ├── hashmob66.rule
+│   ├── hashmob750.old.rule
+│   └── hashmob75k.rule
 ├── hashpwn
 │   ├── hashpwn_1500.rule
 │   ├── hashpwn_250.rule
 │   ├── hashpwn_3000.rule
 │   ├── hashpwn_5000.rule
-│   └── hashpwn_500.rule
+│   ├── hashpwn_500.rule
+│   ├── LICENSE
+│   └── README.md
 ├── hob0rules
 │   ├── d3adhob0.rule
 │   ├── hob064.rule
@@ -250,14 +301,14 @@ rules
 │   ├── jabbercracky_post_process.rule
 │   ├── jabbercracky_prepend_30k.rule
 │   ├── jabbercracky_short_15.rule
-│   └── jabbercracky_taggle_30k.rule
+│   ├── jabbercracky_taggle_30k.rule
+│   └── README.md
 ├── kaonashi
 │   ├── haku34K.rule
 │   ├── kamaji34K.rule
 │   ├── README.md
 │   └── yubaba64.rule
 ├── korelogic
-│   ├── KoreLogicCombined.rule
 │   ├── KoreLogicRulesAdd1234_Everywhere.rule
 │   ├── KoreLogicRulesAdd2006Everywhere.rule
 │   ├── KoreLogicRulesAdd2010Everywhere.rule
@@ -268,9 +319,7 @@ rules
 │   ├── KoreLogicRulesAppend1_AddSpecialEverywhere.rule
 │   ├── KoreLogicRulesAppend2Letters.rule
 │   ├── KoreLogicRulesAppend4Num.rule
-│   ├── KoreLogicRulesAppend6NumbersSpecial.rule.gz
 │   ├── KoreLogicRulesAppend6Num.rule
-│   ├── KoreLogicRulesAppend6Num.rule.gz
 │   ├── KoreLogicRulesAppendCurrentYearSpecial.rule
 │   ├── KoreLogicRulesAppendJustNumbers.rule
 │   ├── KoreLogicRulesAppendMonthCurrentYear.rule
@@ -321,22 +370,24 @@ rules
 │   ├── 1940-2017.rule
 │   ├── 8track.rule
 │   ├── amaterasu.rule
+│   ├── AppendPasshelp.rule
 │   ├── auto.rule
 │   ├── basic_4_mail.rule
 │   ├── basic_m@il.rule
 │   ├── best64.rule
+│   ├── best66.rule
 │   ├── Chatbooks.rule
 │   ├── combinator.rule
 │   ├── Combined-leetspeak.rule
 │   ├── cyclone_250.rule
 │   ├── d3ad0ne.rule
 │   ├── descrypt.rule
+│   ├── dotslider.rule
 │   ├── efensive.rule
 │   ├── email_by_simplify.rule
 │   ├── emails_best.rule
 │   ├── emails.rule
 │   ├── evil.rule
-│   ├── expanded-cutb-clean.rule.gz
 │   ├── full_names_to_emails_top100.rule
 │   ├── generated2-full.rule
 │   ├── generated2.rule
@@ -363,7 +414,6 @@ rules
 │   ├── passwordspro.rule
 │   ├── Pengo.rule
 │   ├── pepper.rule
-│   ├── PrependRockYou60000.rule
 │   ├── prince_generated.rule
 │   ├── prince_optimized.rule
 │   ├── reject.rule
@@ -381,7 +431,6 @@ rules
 │   ├── unix-ninja_common-leetspeak.rule
 │   ├── unix-ninja-leetspeak.rule
 │   ├── uppercase.rule
-│   ├── whisper.rule
 │   └── williamsuper.rule
 ├── nsa-rules
 │   ├── LICENSE.md
@@ -422,6 +471,15 @@ rules
 │   ├── pantagrule.popular.rule
 │   ├── pantagrule.random.royce.rule
 │   └── pantagrule.random.rule
+├── passphrases
+│   ├── passphrase-rule1.rule
+│   ├── passphrase-rule2.rule
+│   └── README.md
+├── prepend
+│   ├── PrependBadWords.rule
+│   ├── PrependPasshelp.rule
+│   ├── PrependProbableWordlist50k.rule
+│   └── PrependRockYou60000.rule
 ├── probable-wordlists
 │   ├── ProbWL-197-rule-probable-v2.rule
 │   ├── ProbWL-26-rule-probable-v2.rule
@@ -447,7 +505,6 @@ rules
 │   ├── skalman_takesuonadate.rule
 │   └── skalman_test.rule
 ├── t0xic
-│   ├── T0XIC_combined.rule
 │   ├── T0XlC_3.rule
 │   ├── T0XlC_both.rule
 │   ├── T0XlC_ins2_basic.rule
@@ -468,8 +525,11 @@ rules
 │   ├── techtrip_2.rule
 │   └── techtrip.rule
 ├── tmesis
+│   ├── 12k-ProbableWL-tmesis.rule
 │   ├── 1-emoji-everywhere.rule
+│   ├── badwords.rule
 │   ├── days-everywhere.rule
+│   ├── emojis.rule
 │   ├── love-everywhere.rule
 │   └── seasons-everywhere.rule
 ├── top_n
@@ -491,10 +551,8 @@ rules
     ├── Unicorn3k.rule
     ├── Unicorn5k.rule
     ├── Unicorn64.rule
-    ├── UnicornCombined.rule
     ├── UnicornLorge.rule
     └── UnicornSmol.rule
 
-33 directories, 459 files
-
+38 directories, 514 files
 ```
